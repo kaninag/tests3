@@ -3,7 +3,7 @@
 //console.log(msg);
 let name={
     name:"kamali",
-    age:22,
+    age:21,
 gender:"female"
 }
 console.log(name.name)
