@@ -2,7 +2,7 @@
 //alert(msg);
 //console.log(msg);
 let name={
-    name:"kani",
+    name:"kamali",
     age:22,
 gender:"female"
 }
